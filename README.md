@@ -32,7 +32,7 @@ Exploratory data analysis of employee attrition, identifying key factors leading
 - `crop_recommendation.ipynb`
 
 **Description:**  
-Analysis to recommend suitable crops based on environmental factors and soil conditions, leveraging data preprocessing and machine learning techniques.
+Analysis to recommend suitable crops based on environmental factors and soil conditions, leveraging data preprocessing.
 
 ---
 
