@@ -69,7 +69,7 @@ Analysis of space exploration data, including missions and discoveries, visualiz
 ## 🛠️ Technologies Used
 - **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools:** Jupyter Notebook, Excel  
-- **Skills:** Data Wrangling, Visualization, Exploratory Data Analysis (EDA), Machine Learning  
+- **Skills:** Data Wrangling, Visualization, Exploratory Data Analysis (EDA), Dashboard Generation
 
 ---
 
